@@ -23,4 +23,4 @@ yarn-error.log*
 
 # AI Workspace specific
 metadata.json
-index.html
+/index.html
